@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'60', 'ver3':'\nيتوفر تحديث جديد\nالرجاء تنزيل أحدث إصدار وتثبيته للحفاظ على عمل WhatsApp Business بشكل جديد\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2021/09/best-whatsApp-business-rate.html'}
+{'ver1':'4', 'ver2':'90', 'ver3':'\nيتوفر تحديث جديد\nالرجاء تنزيل أحدث إصدار وتثبيته للحفاظ على عمل WhatsApp Business بشكل جديد\n' , 'dli':'https://almobrmg-almohtref2019.blogspot.com/2021/09/best-whatsApp-business-rate.html'}
